@@ -8,6 +8,7 @@
  *
  * @author Dhimas N A
  */
+// ini komen desmita
 public class JavaFrame2 extends javax.swing.JFrame {
 
     /**
